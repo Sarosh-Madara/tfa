@@ -1,10 +1,4 @@
 <?php
-/**
- * Basic Configuration Settings
- *
- * This file defines essential constants for database connection and application settings.
- * You should update these values according to your environment.
- */
 
 // --- Database Configuration ---
 // The database type (e.g., 'mysql', 'pgsql')
